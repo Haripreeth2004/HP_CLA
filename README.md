@@ -24,4 +24,4 @@ The CLA design is implemented in Verilog, utilizing the following key components
 
 This project was inspired by the IEEE research paper, which introduces a highly efficient method for carry generation in adder circuits. The CLA's performance is particularly critical in high-speed applications like ALUs, where addition operations are a fundamental component.
 
-**Reference Paper:** The design was influenced by the IEEE research paper on Efficient Carry Lookahead Adders. You can access the full paper [here]().
+**Reference Paper:** The design was influenced by the IEEE research paper on Efficient Carry Lookahead Adders. You can access the full paper [here](jlpea-12-00046.pdf).
